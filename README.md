@@ -34,3 +34,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+# License
+
+> Copyright (c) 2024-2024 Michał (Rynav)
+
+This project is licensed under the [AGPL-3.0-only](https://opensource.org/license/agpl-v3) License - see the [LICENSE](https://github.com/Rynav/WLGamba/blob/main/LICENSE.md) file for details.
